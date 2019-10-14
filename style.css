@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	font-size: 120%;
+	background: #F8F8F8;
+	background:url(../img/register.jpg);
+}
+
+div.header{
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background-color: #5F9EA0;
+	text-align: center;
+	border:1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+form{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border:1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+div.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+div.input-group{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+
+div.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:1px solid gray;
+}
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border:none;
+	border-radius: 5px;
+}
+
+.login{
+	padding-left: 24%;
+	padding-right: 24%;
+}
+
+.space{
+	padding-left: 15%;
+	padding-right: 15%;
+	background: red;
+}
+
+textarea.homeContentF{
+    width: 94%;
+    padding: 40px 20px;
+    margin: 100px 0 0 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-left: 45px;
+    color: rgb(231, 13, 24);
+    border: 2px solid teal;
+  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
